@@ -1,0 +1,4 @@
+cidade,fabricante
+Rio de Janeiro,Microsoft
+São Paulo,Doutores do Excel
+Bahia,Dell

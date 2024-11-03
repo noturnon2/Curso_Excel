@@ -1,0 +1,5 @@
+Produto,VrUnitário,Fabricante,Descrição
+1,26.48,Microsoft,Excel
+2,20.50,Doutores do Excel,Planilha Fincanceira
+3,100,Dell,Notebook R10
+4,45.35,Microsoft,Power BI
